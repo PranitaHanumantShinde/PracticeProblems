@@ -1,0 +1,6 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\Subject\Subject\bin\Debug\Subject.exe.config
+c:\users\pshinde\documents\visual studio 2015\Projects\Subject\Subject\obj\Debug\Subject.csprojResolveAssemblyReference.cache
+c:\users\pshinde\documents\visual studio 2015\Projects\Subject\Subject\bin\Debug\Subject.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\Subject\Subject\bin\Debug\Subject.pdb
+c:\users\pshinde\documents\visual studio 2015\Projects\Subject\Subject\obj\Debug\Subject.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\Subject\Subject\obj\Debug\Subject.pdb

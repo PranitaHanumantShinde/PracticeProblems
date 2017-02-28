@@ -1,0 +1,6 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\StringPalindrome\StringPalindrome\bin\Debug\StringPalindrome.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringPalindrome\StringPalindrome\bin\Debug\StringPalindrome.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringPalindrome\StringPalindrome\bin\Debug\StringPalindrome.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.pdb

@@ -1,0 +1,6 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\SelectionSorting\SelectionSorting\bin\Debug\SelectionSorting.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\SelectionSorting\SelectionSorting\bin\Debug\SelectionSorting.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\SelectionSorting\SelectionSorting\bin\Debug\SelectionSorting.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\SelectionSorting\SelectionSorting\obj\Debug\SelectionSorting.csprojResolveAssemblyReference.cache
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\SelectionSorting\SelectionSorting\obj\Debug\SelectionSorting.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\SelectionSorting\SelectionSorting\obj\Debug\SelectionSorting.pdb
